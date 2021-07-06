@@ -73,7 +73,7 @@ ___
 
 ## 📄 3. License
 
-This project is under MIT license. Take a look in [LICENSE](LICENSE.md) for more details.
+This project is under MIT license. Take a look in [LICENSE](LICENSE) for more details.
 
 ___
 
