@@ -39,9 +39,29 @@ ___
 
 ### 2.1. Install dependencies
 
+* NPM
+
+* Yarn
+
+```
+$ npm install --global yarn
+```
+
+* Expo
 ```
 $ npm install --global expo-cli
 $ yarn global add expo-cli
+```
+
+### 2.1. Install dependencies of the project
+```
+cd nlw-gameplay
+$ yarn install
+```
+
+### 2.2. Install dependencies by hand
+
+```
 $ expo install expo-font @expo-google-fonts/rajdhani
 $ expo install expo-font @expo-google-fonts/inter
 $ expo install expo-linear-gradient
@@ -60,7 +80,7 @@ $ yarn add react-native-iphone-x-helper
 
 ```
 
-### 2.2. Run expo server
+### 2.3. Run expo server
 
 
 ```
